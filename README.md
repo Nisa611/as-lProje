@@ -64,7 +64,4 @@ Bu projeyi bilgisayarınızda çalıştırmak için aşağıdaki adımları izle
 
 **Nisa Nur Çakır**
 * Bilgisayar Programcılığı 2. Sınıf Öğrencisi
-* [GitHub Profilin](https://github.com/KULLANICI_ADIN)
-* [LinkedIn Profilin](Link Varsa)
-
----
+* nisanurckr611@gmail.com
